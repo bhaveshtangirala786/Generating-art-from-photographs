@@ -16,3 +16,7 @@ We also want the color distribution to be preserved, so we also impose an **iden
 
 ## Some Training images
 **Photo images**
+![](pics/photos.png)
+
+**Monet images**
+![](pics/monets.png)
