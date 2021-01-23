@@ -20,3 +20,7 @@ We also want the color distribution to be preserved, so we also impose an **iden
 
 **Monet images**
 ![](pics/monets.png)
+
+## Visualizing Training stages
+
+
