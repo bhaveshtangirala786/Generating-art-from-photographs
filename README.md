@@ -66,3 +66,15 @@ We also want the color distribution to be preserved, so we also impose an **iden
 
                                                       Epoch 100 Reconstructed photos
 ![](pics/cycle_photo_99.png)
+
+## Plotting losses over time
+
+<p align="center">
+  <img src="pics/100_loss.png">
+</p>
+
+## Final generated Portraits from Photographs
+
+<p align="center">
+  <img src="pics/pic_to_paint.png">
+</p>
