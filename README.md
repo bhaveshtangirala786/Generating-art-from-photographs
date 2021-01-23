@@ -25,4 +25,44 @@ We also want the color distribution to be preserved, so we also impose an **iden
 
 ## Visualizing Training stages
 
+                                                        Original Input Monet Images
+![](pics/original_monet.png)
 
+                                                        Original Input Photographs
+![](pics/original_photo.png)
+
+                                                         Epoch 0 Predicted photos
+![](pics/pred_photo_0.png)
+
+                                                        Epoch 0 Reconstructed monets
+![](pics/cycle_monet_0.png)                                                               
+
+                                                         Epoch 0 Predicted monets
+![](pics/pred_monet_0.png)
+
+                                                        Epoch 0 Reconstructed photos
+![](pics/cycle_photo_0.png)
+
+                                                         Epoch 50 Predicted photos
+![](pics/pred_photo_49.png)
+
+                                                        Epoch 50 Reconstructed monets
+![](pics/cycle_monet_49.png)                                                               
+
+                                                         Epoch 50 Predicted monets
+![](pics/pred_monet_49.png)
+
+                                                        Epoch 50 Reconstructed photos
+![](pics/cycle_photo_49.png)
+
+                                                         Epoch 100 Predicted photos
+![](pics/pred_photo_99.png)
+
+                                                        Epoch 100 Reconstructed monets
+![](pics/cycle_monet_99.png)                                                               
+
+                                                         Epoch 100 Predicted monets
+![](pics/pred_monet_99.png)
+
+                                                        Epoch 100 Reconstructed photos
+![](pics/cycle_photo_99.png)
