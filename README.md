@@ -25,10 +25,10 @@ We also want the color distribution to be preserved, so we also impose an **iden
 
 ## Visualizing Training stages
 
-                                                        Original Input Monet Images
+                                               Original Input Monet Images
 ![](pics/original_monet.png)
 
-                                                        Original Input Photographs
+                                               Original Input Photographs
 ![](pics/original_photo.png)
 
                                                          Epoch 0 Predicted photos
